@@ -1,1 +1,2 @@
-CobbleSpawnAlertReforged-1.4.2.jar 
+CobbleSpawnAlertReforged-1.4.2.jar
+voicechat-fabric-1.21.1-2.6.15.jar
